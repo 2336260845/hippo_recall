@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 	"github.com/2336260845/hippo_recall/config"
-	"github.com/2336260845/hippo_recall/gen-go/recall"
+	"github.com/2336260845/hippo_search/gen-go/recall"
 	"github.com/apache/thrift/lib/go/thrift"
 	"strconv"
 )
