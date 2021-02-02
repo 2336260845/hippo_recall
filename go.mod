@@ -3,7 +3,7 @@ module github.com/2336260845/hippo_recall
 go 1.15
 
 require (
-	github.com/2336260845/hippo_search v0.0.0-20210201135046-86889c502fc8
+	github.com/2336260845/hippo_search v0.0.0-20210202073928-1e422d77f435
 	github.com/apache/thrift/lib/go/thrift v0.0.0-20210120171102-e27e82c46ba4
 	github.com/elastic/go-elasticsearch v0.0.0
 	github.com/sirupsen/logrus v1.7.0
